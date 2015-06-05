@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat May 30 18:06:04 CST 2015
+http\://repo.maven.apache.org/maven2/.lastUpdated=1432980364875
+http\://dist.wso2.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interactivity-api\:pom\:1.0-alpha-6 from/to wso2-maven2-repository-1 (http\://dist.wso2.org/maven2)\: The operation was cancelled.
+default-http\://dist.wso2.org/snapshots/maven2/.lastUpdated=1432980135742
+http\://dist.wso2.org/snapshots/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interactivity-api\:pom\:1.0-alpha-6 from/to wso2-maven2-repository-2 (http\://dist.wso2.org/snapshots/maven2)\: The operation was cancelled.
+default-http\://dist.wso2.org/maven2/.lastUpdated=1432980135730
