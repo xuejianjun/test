@@ -1,0 +1,9 @@
+1.API校验
+
+2.新增APP - 新增应用- 订阅API - 获取授权码 --使用API流程（）
+
+3.IS 外部Oauth认证
+
+4.http://jaggeryjs.org/   jag开发模式 修改页面（汉化）	http://jaggeryjs.org/
+
+5.统一服务管理文档（）
